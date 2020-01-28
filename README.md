@@ -10,6 +10,6 @@ Multicolored LED thermometer we're creatively calling the  **MLT 5000**. Purely 
 
 ![Board](assets/images/pe_09_version1_3board.png)
 
-## Credit
-F.Barraza Castillo
-E.Attah-Mensah
+## Creators
+* F.Barraza Castillo
+* E.Attah-Mensah
